@@ -29,48 +29,6 @@ display.value = '';
 
 }
 
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-console.log("tes");
-
-
 function deleteLast() {
 
 display.value = display.value.slice(0, -1);
